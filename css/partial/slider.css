@@ -1,0 +1,264 @@
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+div.wrraper > div.slider {
+  width: 100%;
+  height: 400px;
+  margin-top: 20px;
+  position: relative;
+}
+div.b {
+  display: none;
+}
+div.swiper-button-next {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  border: 1px solid #bdbdbd;
+  background-color: #ffffff;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  position: absolute;
+  right: 40px;
+  top: 330px;
+}
+div.swiper-button-next::after {
+  font-size: 12px;
+  color: rgb(17, 17, 17);
+}
+div.swiper-button-prev {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  border: 1px solid #bdbdbd;
+  background-color: #ffffff;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  position: absolute;
+  left: 90%;
+  top: 330px;
+}
+div.swiper-button-prev::after {
+  font-size: 12px;
+  color: rgb(22, 22, 22);
+}
+div.wrraper > div.slider :hover > div.b {
+  display: block;
+}
+
+div.wrraper > div.brand {
+  width: 100%;
+  height: 230px;
+  margin-top: 20px;
+}
+div.wrraper > div.brand > div.brandb {
+  width: 98%;
+  height: inherit;
+  margin: 0 auto;
+  border: 1px solid #e0e0e6;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+div.wrraper > div.brand > div.brandb >div.bh{
+  width: 100%;
+  height: 60px;
+  text-align: center;
+}
+div.wrraper > div.brand > div.brandb >div.bh>h2{
+font-family: yf;
+font-size: 20px;
+font-weight: 600;
+line-height: 60px;
+}
+div.wrraper > div.brand > div.brandb >div.brands{
+  width: 100%;
+  height: 150px;
+  direction: rtl;
+
+}
+div.bb>div.swiper-button-next
+{
+  position: absolute;
+  top: 70px;
+}
+div.bb>div.swiper-button-prev
+{
+  position: absolute;
+  top: 70px;
+}
+
+div.wrraper > div.pforosh {
+  width: 100%;
+  height: 420px;
+  position: relative;
+}
+div.wrraper > div.pforosh > div.pfb {
+  width: 98%;
+  height: inherit;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 1px solid #e0e0e6;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  direction: ltr;
+}
+div.wrraper > div.pforosh > div.pfb > div.ph {
+  width: 100%;
+  height: 60px;
+}
+div.wrraper > div.pforosh > div.pfb > div.ph > div.pa {
+  width: 10%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.pforosh > div.pfb > div.ph > div.pa > a {
+  text-decoration: none;
+  line-height: 60px;
+  margin-left: 20px;
+  color: #19bfd3;
+  font-family: yf;
+  font-weight: 600;
+  font-size: 90%;
+}
+div.wrraper > div.pforosh > div.pfb > div.ph > div.ph1 {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+  direction: rtl;
+  line-height: 60px;
+}
+div.wrraper > div.pforosh > div.pfb > div.ph > div.ph1 > h1 {
+  font-family: yf;
+  font-size: 22px;
+  margin-right: 35px;
+  margin-top: 10px;
+}
+div.wrraper > div.pforosh > div.pfb > div.pslider {
+  width: 99%;
+  height: 340px;
+  margin: 0 auto;
+  margin-top: 10px;
+  direction: rtl;
+}
+div.swiper-slide > div.u {
+  width: 95%;
+  height: 110px;
+  margin: 0 auto;
+
+  margin-bottom: 8px;
+  direction: rtl;
+}
+div.swiper-slide > div.d {
+  width: 95%;
+  height: 110px;
+  margin: 0 auto;
+}
+div.swiper-slide > div.u > div {
+  width: 30%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.swiper-slide > div.u > div > img {
+  width: 90%;
+}
+div.swiper-slide > div.d > div {
+  width: 30%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.swiper-slide > div.d > div > img {
+  width: 90%;
+}
+div.swiper-slide > div.u > div.n {
+  width: 12%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.swiper-slide > div.u > div.n > h2 {
+  font-family: yf;
+  font-weight: 800;
+  color: #46ccdc;
+  margin-top: 40px;
+}
+div.swiper-slide > div.d > div.n > h2 {
+  font-family: yf;
+  font-weight: 800;
+  color: #46ccdc;
+  margin-top: 40px;
+}
+div.swiper-slide > div.d > div.n {
+  width: 12%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.swiper-slide > div.u > div.u1 {
+  width: 50%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  direction: rtl;
+  border-bottom: 1px solid #e7e2e2;
+}
+div.swiper-slide > div.d > div.u1 {
+  width: 50%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  direction: rtl;
+}
+div.swiper-slide > div.d > div.u1 > p {
+  font-family: yf;
+  font-size: small;
+  font-weight: 300;
+  margin-top: 40px;
+  margin-right: 15px;
+}
+div.swiper-slide > div.u > div.u1 > p {
+  font-family: yf;
+  font-size: small;
+  font-weight: 300;
+  margin-top: 50px;
+  margin-right: 15px;
+}
+div.pb > div.swiper-button-next {
+  position: absolute;
+  top: 150px;
+}
+div.pb > div.swiper-button-prev {
+  position: absolute;
+  top: 150px;
+}

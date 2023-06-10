@@ -1,0 +1,268 @@
+div.wrraper > div.digiplus {
+  width: 100%;
+  height: 380px;
+  margin-top: 25px;
+}
+div.wrraper > div.digiplus > div.dpb {
+  width: 98%;
+  height: inherit;
+  margin: 0 auto;
+  background-color: #941b80;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  position: relative;
+  direction: rtl;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpright {
+  width: 30%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpright > div.m1 > img {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpright > p {
+  font-family: yf;
+  font-weight: 500;
+  color: white;
+  font-size: 90%;
+  position: absolute;
+  top: 80px;
+  right: 40px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpright > div.ozv {
+  width: 8%;
+  height: 35px;
+  cursor: pointer;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 6px;
+  position: absolute;
+  top: 120px;
+  right: 40px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpright > div.ozv > p {
+  font-family: yf;
+  font-size: 80%;
+  font-weight: 600;
+  color: white;
+  margin-right: 10px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpright > div.ozv > i {
+  position: absolute;
+  right: 65px;
+  top: 10px;
+  color: white;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpright > img {
+  width: 29%;
+  position: absolute;
+  top: 92px;
+  right: 10px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft {
+  width: 68%;
+  height: 350px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 16px;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.lf {
+  width: 100%;
+  height: 50px;
+  direction: ltr;
+  margin-top: 10px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.lf > div.l {
+  width: 15%;
+  height: inherit;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.lf > div.l > a {
+  font-family: yf;
+  font-size: 80%;
+  line-height: 50px;
+  text-decoration: none;
+  color: #941b80;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.lf > div.r {
+  width: 82%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  direction: rtl;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.lf > div.r > i {
+  margin-top: 14px;
+  color: #941b80;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.lf > div.r > h3 {
+  font-family: yf;
+  font-size: medium;
+  display: inline-block;
+  margin-right: 12px;
+  font-weight: 600;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.l11 {
+  width: 100%;
+  height: 140px;
+  text-align: center;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.l22 {
+  width: 100%;
+  height: 140px;
+  text-align: center;
+  margin-top: 10px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.l11 > img {
+  width: 13%;
+  margin-right: 18px;
+}
+div.wrraper > div.digiplus > div.dpb > div.dpleft > div.l22 > img {
+  width: 13%;
+  margin-right: 18px;
+}
+div.wrraper > div.club {
+  width: 100%;
+  height: 85px;
+  margin-top: 10px;
+}
+div.wrraper > div.club > div.cb {
+  width: 98%;
+  height: inherit;
+  background-image: linear-gradient(
+    to right,
+    #35a6c8,
+    #2a99bb,
+    #1f8cae,
+    #127fa2,
+    #007295
+  );
+  margin: 0 auto;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  direction: rtl;
+}
+div.wrraper > div.club > div.cb > div.cr {
+  width: 20%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.club > div.cb > div.cl {
+  width: 78%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  direction: ltr;
+}
+div.wrraper > div.club > div.cb > div.cr > img {
+  width: 47%;
+  margin-top: 30px;
+  margin-right: 40px;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c1 {
+  width: 27%;
+  height: 66px;
+  margin-top: 12px;
+  position: relative;
+  padding: 5px;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 10px 0 0 10px ;
+  -webkit-border-radius: 10px 0 0 10px ;
+  -moz-border-radius: 10px 0 0 10px ;
+  -ms-border-radius: 10px 0 0 10px ;
+  -o-border-radius: 10px 0 0 10px ;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c1 > img {
+  width: 45%;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c2 > img {
+  width: 45%;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c3 > img {
+  width: 45%;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c2 {
+  width: 27%;
+  height: 66px;
+  margin-top: 12px;
+  position: relative;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c3 {
+  width: 27%;
+  height: 66px;
+  margin-top: 12px;
+  position: relative;
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 0 10px 10px 0;
+  -webkit-border-radius: 0 10px 10px 0;
+  -moz-border-radius: 0 10px 10px 0;
+  -ms-border-radius: 0 10px 10px 0;
+  -o-border-radius: 0 10px 10px 0;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c1 > p {
+  position: absolute;
+  left: 60%;
+  top: 35%;
+  font-family: yf;
+  font-size: small;
+  font-weight: 600;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c2 > p {
+  position: absolute;
+  left: 60%;
+  top: 35%;
+  font-family: yf;
+  font-size: small;
+  font-weight: 600;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c3 > p {
+  position: absolute;
+  left: 60%;
+  top: 35%;
+  font-family: yf;
+  font-size: small;
+  font-weight: 600;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c1 > p>i {
+margin-left: 10px;
+color: #35a6c8;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c2 > p>i {
+margin-left: 10px;
+color: #35a6c8;
+}
+div.wrraper > div.club > div.cb > div.cl > div.c3 > p>i {
+margin-left: 10px;
+color: #35a6c8;
+}

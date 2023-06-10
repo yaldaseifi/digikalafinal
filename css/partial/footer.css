@@ -1,0 +1,472 @@
+div.wrraper > div.khndni {
+  width: 100%;
+  height: 400px;
+  margin-top: 40px;
+}
+div.wrraper > div.khndni > div.khh {
+  width: 100%;
+  height: 60px;
+}
+div.wrraper > div.khndni > div.khh > div.left {
+  width: 30%;
+  height: inherit;
+  direction: ltr;
+  display: inline-block;
+  vertical-align: top;
+  padding: 15px;
+}
+div.wrraper > div.khndni > div.khh > div.left > a {
+  text-decoration: none;
+  font-family: yf;
+  font-size: 80%;
+  color: #55c2d3;
+  font-weight: 600;
+  margin-left: 10px;
+}
+div.wrraper > div.khndni > div.khh > div.right {
+  width: 69%;
+  height: inherit;
+  direction: rtl;
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px;
+}
+div.wrraper > div.khndni > div.khh > div.right > h2 {
+  font-family: yf;
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 20px;
+}
+div.wrraper > div.khndni > div.khi {
+  width: 100%;
+  height: 265px;
+  text-align: center;
+  cursor: pointer;
+}
+div.wrraper > div.khndni > div.khi > div.i1 {
+  width: 24%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 6px;
+  border: 1px solid #e0e0e6;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+div.wrraper > div.khndni > div.khi > div.i1 > img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+  -webkit-border-radius: 10px 10px 0 0;
+  -moz-border-radius: 10px 10px 0 0;
+  -ms-border-radius: 10px 10px 0 0;
+  -o-border-radius: 10px 10px 0 0;
+}
+div.wrraper > div.khndni > div.khi > div.i1 > p {
+  font-family: yf;
+  font-size: 75%;
+  font-weight: 300;
+  margin-top: 20px;
+}
+div.wrraper > div.flogo {
+  width: 100%;
+  height: 120px;
+  border-top: 1px solid #e0e0e6;
+}
+div.wrraper > div.flogo > div.leftf {
+  width: 30%;
+  height: 90px;
+  direction: ltr;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+}
+
+div.wrraper > div.flogo > div.leftf > div.back > p > a {
+  text-decoration: none;
+  height: 42px;
+  padding: 11px;
+  border: 1px solid #e0e0e6;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  position: absolute;
+  top: 28px;
+  left: 20px;
+  font-family: yf;
+  font-weight: 600;
+  font-size: 90%;
+  color: #96969b;
+}
+div.wrraper > div.flogo > div.leftf > div.back > p > a > i {
+  margin-right: 10px;
+}
+div.wrraper > div.flogo > div.rightf {
+  width: 69%;
+  height: 90px;
+  direction: rtl;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+}
+div.wrraper > div.flogo > div.rightf > img {
+  width: 120px;
+  position: absolute;
+  top: 35px;
+  right: 10px;
+}
+div.wrraper > div.flogo > div.text {
+  width: 100%;
+  height: 30px;
+}
+div.wrraper > div.flogo > div.text > div.tl {
+  width: 85%;
+  height: 28px;
+  border-right: 1px solid #96969b;
+  display: inline-block;
+  vertical-align: top;
+  direction: rtl;
+}
+div.wrraper > div.flogo > div.text > div.tl > p {
+  font-family: yf;
+  font-size: 80%;
+  font-weight: 300;
+  margin-right: 25px;
+  line-height: 30px;
+}
+div.wrraper > div.flogo > div.text > div.tr > p {
+  font-family: yf;
+  font-size: 80%;
+  font-weight: 300;
+  margin-right: 10px;
+  line-height: 30px;
+}
+div.wrraper > div.flogo > div.text > div.tr {
+  width: 14%;
+  height: 28px;
+  direction: rtl;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.svg {
+  width: 100%;
+  height: 120px;
+  margin-top: 20px;
+  text-align: center;
+}
+div.wrraper > div.svg > div {
+  width: 10%;
+  height: 120px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 60px;
+  margin-left: 60px;
+  cursor: pointer;
+}
+div.wrraper > div.svg > div > img {
+  margin-top: 20px;
+}
+div.wrraper > div.svg > div > p {
+  margin-top: 10px;
+  font-family: yf;
+  font-size: 68%;
+  font-weight: 300;
+}
+div.wrraper > div.fa {
+  width: 100%;
+  height: 285px;
+  margin-top: 40px;
+  direction: rtl;
+  text-align: center;
+}
+div.wrraper > div.fa > div {
+  width: 24%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+}
+div.wrraper > div.fa > div.icon {
+  width: 24%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+}
+div.wrraper > div.fa > div > h2 {
+  font-family: yf;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(60, 60, 60);
+}
+div.wrraper > div.fa > div > a {
+  display: block;
+  font-family: yf;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  margin-top: 22px;
+  color: #79797b;
+}
+div.wrraper > div.fa > div.icon > div.iconim {
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+  position: relative;
+}
+div.wrraper > div.fa > div.icon > div.iconim > i {
+  font-size: 35px;
+  color: #cecfd8;
+  margin-left: 40px;
+}
+div.wrraper > div.fa > div.icon > div.iconim > img {
+  width: 13%;
+  position: absolute;
+  bottom: 15px;
+}
+div.wrraper > div.fa > div.icon > div.ih {
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+}
+div.wrraper > div.fa > div.icon > div.ih > h2 {
+  font-family: yf;
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(60, 60, 60);
+  margin-top: 20px;
+}
+div.wrraper > div.fa > div.icon > div.input {
+  width: 100%;
+  height: 50px;
+  text-align: right;
+  margin-top: 5px;
+}
+div.wrraper > div.fa > div.icon > div.input > div.email {
+  width: 82%;
+  height: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.fa > div.icon > div.input > div.email > input {
+  all: unset;
+  background-color: #f1f2f4;
+  padding-right: 20px;
+  height: 50px;
+  width: 90%;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  font-family: yf;
+  font-size: medium;
+  font-weight: 100;
+}
+div.wrraper > div.fa > div.icon > div.input > div.buttom {
+  width: 16%;
+  height: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.fa > div.icon > div.input > div.buttom > input {
+  all: unset;
+  background-color: #e0e0e6;
+  width: 100%;
+  height: inherit;
+  text-align: center;
+  font-family: yf;
+  font-size: medium;
+  color: white;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+div.wrraper > div.app {
+  width: 100%;
+  height: 80px;
+}
+div.wrraper > div.app > div.appb {
+  width: 97%;
+  height: inherit;
+  background-color: #3c4b6d;
+  margin: 0 auto;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  position: relative;
+  direction: rtl;
+}
+div.wrraper > div.app > div.appb > img {
+  width: 4%;
+  position: absolute;
+  top: 16px;
+  right: 15px;
+}
+div.wrraper > div.app > div.appb > h2 {
+  width: 20%;
+  position: absolute;
+  top: 26px;
+  right: 90px;
+  color: white;
+  font-family: yf;
+  font-size: 22px;
+}
+div.wrraper > div.app > div.appb > div.appimg {
+  width: 67%;
+  height: inherit;
+  position: absolute;
+  right: 400px;
+  direction: ltr;
+}
+div.wrraper > div.app > div.appb > div.appimg > div.more {
+  width: 6%;
+  height: 50px;
+  background-color: #ffffff;
+  position: absolute;
+  top: 15px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+div.wrraper > div.app > div.appb > div.appimg > div.more > i {
+  position: absolute;
+  left: 12px;
+  top: 17px;
+  color: #3c4b6d;
+  font-size: 25px;
+}
+div.wrraper > div.app > div.appb > div.appimg > div.paimg {
+  width: 70%;
+  position: absolute;
+  left: 80px;
+  top: 20px;
+}
+div.wrraper > div.app > div.appb > div.appimg > div.paimg > img {
+  width: 24%;
+  cursor: pointer;
+  margin-right: 2px;
+}
+div.wrraper > div.tozih {
+  width: 100%;
+  height: 300px;
+  margin-top: 25px;
+}
+div.wrraper > div.tozih > div.tb {
+  width: 98%;
+  height: inherit;
+  border-top: 1px solid #d4d4dc;
+  border-bottom: 1px solid #dddde6;
+  margin: 0 auto;
+}
+div.wrraper > div.tozih > div.tb > div.tbl {
+  width: 30%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.tozih > div.tb > div.tbl > div {
+  width: 30%;
+  height: 110px;
+  border: 1px solid #cecfd8;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  margin-top: 30px;
+  margin-left: 7px;
+}
+div.wrraper > div.tozih > div.tb > div.tbl > div > img {
+  width: 65%;
+  margin-top: 12px;
+}
+div.wrraper > div.tozih > div.tb > div.tbr {
+  width: 69%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  direction: rtl;
+}
+div.wrraper > div.tozih > div.tb > div.tbr > h1 {
+  font-family: yf;
+  font-size: 22px;
+  margin-top: 30px;
+  color: #5a5c7a;
+}
+div.wrraper > div.tozih > div.tb > div.tbr > h2 {
+  font-family: yf;
+  font-size: 18px;
+  margin-top: 30px;
+  color: #6c6e82;
+}
+div.wrraper > div.tozih > div.tb > div.tbr > p {
+  font-family: yf;
+  font-size: 12px;
+  margin-top: 30px;
+  color: #5a5c7a;
+}
+div.wrraper > div.lastpart {
+  width: 100%;
+  height: 40px;
+  text-align: center;
+}
+div.wrraper > div.lastpart > p {
+  font-family: yf;
+  font-size: 10px;
+  margin-top: 30px;
+  color: #5a5c7a;
+}
+div.wrraper > div.lastl1 {
+  width: 100%;
+  height: 80px;
+  margin-top: 10px;
+  background-color: #f1f2f4;
+  border-bottom: 1px solid #bfbfbf ;
+}
+div.wrraper > div.lastl2 {
+  width: 100%;
+  height: 80px;
+  background-color: #f1f2f4;
+}
+div.wrraper > div.lastl1 >div{
+ width: 10.8%;
+ height: inherit;
+ border-right: 1px solid #bfbfbf;
+ display: inline-block;
+ vertical-align: top;
+ text-align: center;
+ cursor: pointer;
+}
+div.wrraper > div.lastl1 >div>img{
+width: 60%;
+margin-top: 25px;
+
+}
+div.wrraper > div.lastl2 >div>img{
+width: 60%;
+margin-top: 25px;
+
+}
+div.wrraper > div.lastl2>div{
+ width: 10.8%;
+ height: inherit;
+ border-right: 1px solid #bfbfbf;
+ display: inline-block;
+ vertical-align: top;
+ text-align: center;
+ cursor: pointer;
+}

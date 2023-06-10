@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div.wrraper {
+  width: 100%;
+  height: auto;
+}
+@font-face {
+  font-family: yf;
+  src: url(../../font/IRANSansWeb_Light.eot);
+  src: url(../../font/IRANSansWeb_Light.ttf);
+  src: url(../../font/IRANSansWeb_Light.woff);
+  src: url(../../font/IRANSansWeb_Light.woff2);
+}
+html{
+  scroll-behavior: smooth;
+   }

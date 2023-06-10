@@ -1,0 +1,76 @@
+div.wrraper > div.story01 {
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+  text-align: center;
+}
+div.wrraper > div.story01 > div {
+  width: 10%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 22px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+div.wrraper > div.story01 > div > div > img {
+  width: 62%;
+  height: auto;
+  padding: 3px;
+  object-fit: contain;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border: 2px solid #ef384d;
+}
+div.wrraper > div.story01 > div > div > p {
+  font-family: yf;
+  font-size: small;
+  font-weight: 600;
+  margin-top: 5px;
+}
+div.wrraper > div.story02 {
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+  text-align: center;
+}
+div.wrraper > div.story02 > div {
+  width: 10%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 25px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+div.wrraper > div.story02 > div > div > img {
+  width: 42%;
+  height: auto;
+}
+div.wrraper > div.story02 > div > div > p {
+  font-family: yf;
+  font-size: 75%;
+  font-weight: 600;
+  margin-top: 5px;
+}
+div.wrraper > div.story02 > div > div.g {
+  width: 50%;
+  height: 60px;
+  margin-left: 35px;
+  background-color: #f1f2f4;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+  position: relative;
+}
+div.wrraper > div.story02 > div >div.g> i {
+position: absolute;
+top: 22px;
+left: 22px;
+color: #878787;
+}

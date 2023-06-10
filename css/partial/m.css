@@ -1,0 +1,183 @@
+div.wrraper > div.montakhab {
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+}
+div.wrraper > div.montakhab > div.mb {
+  width: 98%;
+  height: inherit;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border: 1px solid #e0e0e6;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+div.wrraper > div.montakhab > div.mb > h1 {
+  font-family: yf;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+div.wrraper > div.montakhab > div.mb > h1 > i {
+  margin-left: 10px;
+  color: red;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 {
+  width: 98%;
+  height: 290px;
+  border-bottom: 1px solid #e0e0e6;
+  margin: 0 auto;
+  text-align: center;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div {
+  width: 16%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  border-right: 1px solid #e0e0e6;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md {
+  width: 16%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+  border-right: none;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mi {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mi > img {
+  width: 80%;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mi > div {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ef4258;
+  position: absolute;
+  top: 118px;
+  right: 15px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mi > div > i {
+  color: #ef4258;
+  margin-top: 7px;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mp {
+  width: 100%;
+  height: 30px;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mp > div.pp {
+  width: 50%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mp > div.pp>p {
+font-family: yf;
+font-size: small;
+margin-right: 19px;
+line-height: 30px;
+font-weight: 600;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mp > div.tp {
+  width: 18%;
+  height: 25px;
+  direction: rtl;
+  margin-top: 3px;
+  background-color: #ef4258;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > div.mp > div.tp >span{
+  font-family: yf;
+  font-size: 70%;
+  color: white;
+  font-weight: 600;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div > p{
+  font-family: yf;
+  text-decoration: line-through;
+  color: #909092;
+  font-size: 85%;
+  margin-top: 5px;
+  margin-left: 30px;
+  text-align: left;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mi {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mi > img {
+  width: 80%;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mi > div {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ef4258;
+  position: absolute;
+  top: 118px;
+  right: 15px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mi > div > i {
+  color: #ef4258;
+  margin-top: 7px;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mp {
+  width: 100%;
+  height: 30px;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mp > div.pp {
+  width: 50%;
+  height: inherit;
+  display: inline-block;
+  vertical-align: top;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mp > div.pp>p {
+font-family: yf;
+font-size: small;
+margin-right: 19px;
+line-height: 30px;
+font-weight: 600;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mp > div.tp {
+  width: 18%;
+  height: 25px;
+  direction: rtl;
+  margin-top: 3px;
+  background-color: #ef4258;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+div.wrraper > div.montakhab > div.mb > div.m1 > div.md > div.mp > div.tp >span{
+  font-family: yf;
+  font-size: 70%;
+  color: white;
+  font-weight: 600;
+}
+
